@@ -12,6 +12,8 @@
 
 [**_University of Washington - Seattle_**](http://www.washington.edu/)
 >"When the UW announced an all-remote spring quarter, the Student Technology Loan Program jumped into action, finding new ways to get laptops and other equipment to students in need — locally and across the country."
+
+
 * __Degree__: Bachelar of Science
 * __Major__: Geography-Informatics System Track
 * __Minor__:Informatics

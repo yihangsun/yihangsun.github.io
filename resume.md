@@ -6,11 +6,12 @@
 
 ### Summary
 
-**Geographic Information System Specialist** with three-year educational practices and a great passion to provide solutions with _GIS mapping_, _editing_, _modeling_, _programming_, and _analyzing_. Committed to bring professions and devotions to GIS into the work to generate innovative and effective strategies
+> **Geographic Information System Specialist** with three-year educational practices and a great passion to provide solutions with _GIS mapping_, _editing_, _modeling_, _programming_, and _analyzing_. Committed to bring professions and devotions to GIS into the work to generate innovative and effective strategies
 
 ### Education
 
 [**_University of Washington - Seattle_**](http://www.washington.edu/)
+>"When the UW announced an all-remote spring quarter, the Student Technology Loan Program jumped into action, finding new ways to get laptops and other equipment to students in need — locally and across the country."
 * __Degree__: Bachelar of Science
 * __Major__: Geography-Informatics System Track
 * __Minor__:Informatics
